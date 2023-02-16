@@ -9,7 +9,7 @@ The homework included in the repo (besides some Linaer Algebra and Calculus for 
 5. - Not Uploaded
 6. PCA
 
-# Results
+# Some Results
 <p>
 Ariels Sharon's images casted into the PCA linear sub-space:
 </p>
