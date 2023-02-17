@@ -1,7 +1,7 @@
 # Introduction to Machine Learning
 This repository is my solution to the homeworks given in the TAU 0368-3235-06 - Introduction to Machine Learning course.   
 
-The homework included in the repo (besides some Linaer Algebra and Calculus for the theoretical part):
+The homework included in the repo (leaving aside the theoretical part):
 1. Nearest Neighbors
 2. Union of intervals (and the ERM algorithm)
 3. Perceptron
